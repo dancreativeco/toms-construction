@@ -1,4 +1,4 @@
-import{j as $}from"./index-BGoD0juF.js";import{t as m,c as r,b as x}from"./Card-Dl5wOfOr.js";const d=({children:e,variant:s="primary",size:t="md",disabled:a=!1,fullWidth:i=!1,className:n="",...o})=>{const g=`
+import{j as $}from"./index-CeUv-Fbt.js";import{t as m,c as r,b as x}from"./Card-Sw8-wAg0.js";const d=({children:e,variant:s="primary",size:t="md",disabled:a=!1,fullWidth:i=!1,className:n="",...o})=>{const g=`
     inline-flex items-center justify-center
     font-medium rounded-md
     focus:outline-none focus:ring-2 focus:ring-offset-2
